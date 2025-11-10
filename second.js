@@ -6,3 +6,6 @@ divya = {
 
 //exporting
 module.exports = divya
+
+//module wrapper function
+//function{ex..............}
